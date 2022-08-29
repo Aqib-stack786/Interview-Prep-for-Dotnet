@@ -1,0 +1,26 @@
+-----------------------Oop-----------------
+four pillar of oop
+*Abstraction vs encapsulation //redicussion
+abstraction example
+//acces modifier  
+public 
+private
+protected 
+internal //name space acccess
+namespace
+class vs object
+stuct vs class
+sealed class C# //stop inheritance
+abstract classes
+virtual vs abstract
+what is perpose of abstract classes why not simple inheritance
+multi level inheritance
+interface? purpose
+diff between abstract class and interface
+polymorphism
+types of polymorphism
+static vs dynamic
+function overloading //overloading with nullable var Questions
+function overriding //dynamic polymor
+inheritance level
+//further discussion

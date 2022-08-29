@@ -1,0 +1,41 @@
+************************--general questions--*********************
+DDL & DML
+unique key vs primary key
+OLTP vs OLAP
+
+************************--queries--*********************
+joins
+inner, left, right, full, cross joins
+sub queries
+
+************************--relationships--*********************
+relationships
+one to one how
+one to many
+many to many how to acheive
+delete drop vs truncate
+group by
+use of having keyword
+
+************************--nomalization--*********************
+nomalization
+explain all nomalization forms
+indexing in Db
+clustered vs non clustered indexes difference
+can we create multiple clusted indexes
+can you apply indexing on views
+
+
+************************--functional--*********************
+store procedures
+views
+functions
+diffence between function vs store procedure
+recursive store procedures
+temptable tables
+ctx in sql
+exception handling in store procedures
+
+************************--others--*********************
+triggers
+transactions

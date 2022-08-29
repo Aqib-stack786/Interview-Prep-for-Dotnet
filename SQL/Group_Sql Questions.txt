@@ -1,0 +1,59 @@
+************************--general questions--*********************
+DDL & DML
+unique key vs primary key
+OLTP vs OLAP
+What is an IDENTITY column in insert statements
+What is the purpose of FLOOR function?
+
+************************--queries--*********************
+joins
+inner, left, right, full, cross joins
+What is the difference between UNION and UNION ALL?
+What is sub query and its properties and its type? (3 types)
+
+************************--relationships--*********************
+relationships
+one to one how
+one to many
+many to many how to acheive
+delete drop vs truncate
+group by
+use of having keyword
+in/ having/ where 
+************************--optimization--*********************
+nomalization / denomalization
+explain all nomalization forms
+indexing in Db
+clustered vs non clustered indexes difference
+can we create multiple clusted indexes
+can you apply indexing on views
+
+
+************************--functional--*********************
+store procedures
+views / What are views in SQL
+functions
+difference between function vs store procedure
+recursive store procedures/What is recursive stored procedure? (nest up to 32 levels)
+What are temporary Tables
+ctx in sql
+exception handling in store procedures
+CHECK constraint ?
+What is a Trigger? What are the types of Triggers? How can we write a trigger?
+What is the difference between temporary Tables and views?
+
+************************--security--*******************
+
+What is the use of SIGN function?
+authentication modes ?  
+How many and how to configure it?What are locks in SQL SERVER ? Can we check locks in database? If so, how can we do this lock check?
+
+
+************************--others--*********************
+triggers
+transactions
+What Is SQL Profiler? How to creater it and use it? What is the purpose of SQL Profiler?
+Can SQL servers linked to other servers?
+SQL server agent? scheduled tasks in SQL Server
+How exceptions can be handled in SQL Server Programming?
+What is Bulkcopy in SQL?  Types of bulkcopy?

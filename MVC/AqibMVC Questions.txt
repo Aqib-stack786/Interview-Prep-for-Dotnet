@@ -1,0 +1,51 @@
+/********************************** MVC Interview Questions **********************************/
+-----------------------C#------------------
+readonly vs const
+arrayList vs array
+var vs dynamic // anynomus types in C#
+out vs ref
+string vs String Builder
+Ienmerable vs Iqueriable
+static
+
+-----------------------Mvc-----------------
+what is Mvc?
+life cycle of mvc request
+return types in mvc
+what are way to send data from controller to view
+view data, view bag, temp data
+life span of temp data
+session in mvc
+what are strongly types views
+html helpers
+routing in mvc any type of routing
+execption handing
+if child method throw exception and not handled in child method
+what happen when finally block throw exception
+validation type in mvc // why both types are used
+data annotaions
+filters in mvc
+type of filters in mvc
+get vs post
+child only no action
+accessable to All vs allow anynomus
+
+3 tier Architecture
+render partial vs partial
+extension methods
+design patterns you used
+repository desgin pattern
+relationship in mvc
+
+-----------------------Linq----------------
+what is linq why use it
+left join in linq
+
+-----------------------EF------------------
+what is EF
+what is an ORM
+Code first vs db first
+migrations in code first
+lazy loading vs eager loading
+first vs FirstOrDefault
+AsNontracking
