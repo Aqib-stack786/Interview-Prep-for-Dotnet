@@ -1,12 +1,5 @@
 /********************************** MVC Interview Questions **********************************/
------------------------C#------------------
-readonly vs const
-arrayList vs array
-var vs dynamic // anynomus types in C#
-out vs ref
-string vs String Builder
-Ienmerable vs Iqueriable
-static
+
 
 -----------------------Mvc-----------------
 what is Mvc?

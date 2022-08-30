@@ -1,0 +1,26 @@
+-----------------------C#------------------
+what is an object
+continue and break
+Exception handling way to implement
+try catch multiple
+finally what happen if finally throw 
+exception type
+throw vs throw ex  //
+anynomus types in C# //var, dynamic, object, T
+var vs dynamic
+boxing and unboxing //value types, ref types //string is ref type
+managed vs unmanged // CLR
+stuct vs class
+.ToString vs Convert.ToString()
+out vs ref vs in //caller calle
+return multiple value from function //out, ref, tuple
+using keyword //IDispose //Garbage collection
+*aysc, await, thread //parallell requests, CLR, Task
+readonly vs const
+
+
+object vs Generic T
+arrayList vs array
+
+string vs String Builder
+Ienmerable vs Iqueriable
