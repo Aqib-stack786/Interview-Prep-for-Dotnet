@@ -5,7 +5,7 @@ Exception handling way to implement
 try catch multiple
 finally what happen if finally throw 
 exception type
-throw vs throw ex  //
+throw vs throw ex
 anynomus types in C# //var, dynamic, object, T
 var vs dynamic
 boxing and unboxing //value types, ref types //string is ref type
@@ -17,10 +17,41 @@ return multiple value from function //out, ref, tuple
 using keyword //IDispose //Garbage collection
 *aysc, await, thread //parallell requests, CLR, Task
 readonly vs const
-
-
-object vs Generic T
+linq //
+lamda expression //anynomus object
+Distructor //System.GC
+IDispose, Finalize //garbage cleaner
+deadlock //1st depends on 2nd, 2nd sleep
+Access Modifier //access level
+lock //execute one request at a time
+*yield alternative method
+*early binding, late binding //string dynamic
+serialization deserialization //json, xml, byte, Newston.JSON
+why we use this in static class
+string vs string builder //heap
+*copyto vs clone //1,2,3,4
+*indexer
+jagged array
 arrayList vs array
+partial classes 
+*data annotaion //server side validation
+*remote valitaion
+*fluent api
+*== vs .Equals()
+int vs int32
+*extension method // enhance library // System.Web
 
-string vs String Builder
+Reflection in C#
+implicit vs explicit conversion
+recurssion
+T templates
+object vs Generic T
 Ienmerable vs Iqueriable
+ 
+linq ef
+
+
+Heap memory
+JIT
+CLI 
+CLR
