@@ -1,0 +1,27 @@
+-----------------***************LINQ***************------------------------
+linq define
+types of linq
+linq vs store procedures
+where vs let
+Explain why SELECT clause comes after FROM clause in LINQ?
+Explain what is lambda expressions in LINQ?
+Explain what is the difference between Skip() and SkipWhile() extension method?
+Explain what are compiled queries?
+Anyonomus type in linq.
+*IEnumerable Enumerable, IQueryable Queryable
+IEnumerator vs IEnumerable
+An IEnumerator is a thing that can enumerate: it has the Current property and the MoveNext and Reset methods (which in . NET code you probably won't call explicitly, though you could). An IEnumerable is a thing that can be enumerated...which simply means that it has a GetEnumerator method that returns an IEnumerator .
+Lazy: don't do the work until you absolutely have to.
+Deferred: means don't compute the result until the caller actually uses it.
+select vs select many
+--
+Select-> selecting values from a collection.
+// Two foreach loops are required to iterate through the results
+// because the query returns a collection of arrays.
+
+SelectMany-> selecting values from a collection of collection i.e. nested collection.
+// Only one foreach loop is required to iterate through the results 
+// since query returns a one-dimensional collection.
+--
+linq inner, left, right
+Lamda join 
